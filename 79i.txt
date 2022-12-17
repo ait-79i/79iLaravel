@@ -1,0 +1,8 @@
+1 - {terminal} php artisan make:model Produit -mc
+hadi tatcreer lina lfiles b 3 ProduitController o file f migration o L model Produit.
+
+2 - {phpmyadmin}(create database gestionProduit;)
+3 - {.env (file)} DB_DATABASE=gestionProduit
+4 - {terminal} php artisan migrate:install
+tanl9aw bli tzadet wa7ed la taable smiytha migrations f database .
+5 
